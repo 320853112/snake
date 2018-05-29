@@ -9,6 +9,7 @@
 #define up  72    //方向的键值
 #define down  80  
 #define left  75    
+#define right 77    
 //常用常量宏定义
 #define wall   1 
 #define food   2
